@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "name": "cs-546-lab-3",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gregmar Cruz 10478805",
+  "license": "ISC",
+  "description": ""
+}
